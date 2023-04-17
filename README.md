@@ -30,7 +30,7 @@ To install the required plugins, follow these steps:
 3. In the "Available" tab, search for "Cobertura", "Code Coverage API Plugin" and "JUnit."
 4. Check the boxes next to "Cobertura Plugin", "Code Coverage API Plugin"  and "JUnit Plugin," then click "Install without restart" or "Download now and install after restart."
 
-## Setting Up the Build Process
+### Setting Up the Build Process
 
 1. Clone this repository to your local machine.
 2. In Jenkins, create a new Pipeline job.
