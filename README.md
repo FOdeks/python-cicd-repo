@@ -16,6 +16,7 @@ This repository demonstrates a Python project with a CI/CD pipeline using Jenkin
 
 https://github.com/FOdeks/devops-fully-automated/blob/installations/jenkins-maven-ansible-setup.sh
 https://github.com/cvamsikrishna11/devops-fully-automated/blob/installations/jenkins-maven-ansible-setup.sh)
+
 2. Python 3.x installed on your Jenkins build agent.
 
 ## Required Jenkins Plugins
