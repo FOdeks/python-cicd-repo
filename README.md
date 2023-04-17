@@ -35,7 +35,7 @@ To install the required plugins, follow these steps:
 1. Clone this repository to your local machine.
 2. In Jenkins, create a new Pipeline job.
 3. In the Pipeline job configuration, select "Pipeline script from SCM" under the "Pipeline" section.
-4. Choose "Git" as the SCM and enter the URL of your repository (https://github.com/cvamsikrishna11/python-cicd-repo.git).
+4. Choose "Git" as the SCM and enter the URL of your repository  (https://github.com/FOdeks/python-cicd-repo.git).
 5. Save the job configuration.
 
 ## Running the Build Process
